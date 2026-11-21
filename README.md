@@ -1,36 +1,23 @@
-# OBSIDIAN: A Simulation of Human Cognition
-### *Experimental Engine for Cognitive Elevation and Multi-Agent Reasoning*
+# Obsidian Research and Design Notes
 
----
+This repository collects exploratory essays and design proposals about software, engineering, biology, and mathematical puzzles. It is a document archive, not a runnable software product or a validated research program.
 
-## 1. Project Vision: Beyond Retrieval
-Obsidian is a highly experimental project designed to **simulate and elevate human cognitive processes** within a machine environment. While modern Large Language Models (LLMs) excel at information retrieval and pattern matching, Obsidian aims to showcase the **depth of reasoning** possible when AI is architected to mirror the recursive, multi-layered nature of human thought.
+## Documents
 
-The objective is to move from machine *reflex* to machine *thinking*.
+- [Fraud detection engine design](A%20Design%20Plan%20Fraud%20Detection%20Engine%20for%20Banks.md) — a proposed architecture for a bank fraud detection system.
+- [Breast cancer drug concept](A%20cure%20for%20breast%20cancer%20using%20repurposed%20generic%20drugs.md) — an exploratory treatment concept that has not been clinically evaluated.
+- [Fail-safe vertical farming](Hydro-Dynamic%20Fail-Safe%20Urban%20Vertical%20Farming.md) — a proposal for a hydro-dynamic approach to urban farming controls.
+- [Non-AI data compression](Non-AI%20data%20compression.md) — a conceptual approach to procedural data representation and compression.
+- [The 12-coin counterfeit puzzle](The%2012-Coin%20Counterfeit%20Resolution%20Protocol.md) — a proposed mathematical treatment of the classic balance-scale puzzle.
 
-## 2. Experimental Status & Disclaimer
-**Obsidian is a work in progress.** As an experimental engine, its outputs are not intended to be perfect, definitive, or functionally "correct" in every domain. Instead, they serve as **Cognitive Artifacts**—empirical evidence of a deep-thinking process. 
+## Status and limitations
 
-The value of Obsidian lies not just in the final answer, but in the *pathway* it takes to arrive there: the lateral connections, the self-correction, and the synthesis of disparate disciplines.
+These documents are idea-stage material. Their technical, mathematical, and scientific claims have not necessarily been independently checked, prototyped, or peer reviewed. In particular, the medical essay is not medical guidance or evidence of an effective treatment. Do not use it to make healthcare decisions.
 
-## 3. The Cognitive Framework
-Obsidian simulates the "thinking" process by orchestrating multiple specialized agents into a rigorous, communicative loop. This framework mimics the biological reality of the human mind—a "system of systems" that debates, hypothesizes, and simulates reality before committing to an output.
+## Contributing
 
-### Key Pillars of the Engine:
-- **Recursive Reasoning:** Continuously refining logic through internal feedback loops.
-- **Cognitive Scaffolding:** Forcing the system to inhabit a digital twin of the problem space to validate decisions.
-- **Lateral Synthesis:** Intentionally seeking non-obvious connections across engineering, biology, physics, and philosophy.
-- **Dimensional Quotas:** Ensuring every output meets a minimum threshold of depth, complexity, and structural integrity.
+Corrections and evidence-based critiques are welcome. Please cite reliable sources for factual changes and clearly distinguish demonstrated results from hypotheses.
 
-## 4. Reasoning Artifacts: Demonstrating Depth
-The following artifacts are products of the Obsidian engine. They are included here to demonstrate the system's ability to navigate complex architectural landscapes and generate high-resolution technical blueprints.
+## License
 
-- **The TP-PIC Protocol:** A theoretical pharmacological architecture for chemoresistant breast cancer using pH-gated generic drug delivery.
-- **The Hydro-Dynamic Fail-Safe:** A vertical farming infrastructure that replaces electronic sensors with geometric fluid dynamics.
-- **RDOGS (Non-AI Data Compression):** A conceptual framework for procedural data synthesis using chaos theory and fractal axioms.
-- **The 12-Coin Protocol:** A resolution to a canonical logic puzzle using Ternary Projective Geometry and Hamming Bounds.
-
-## 5. Purpose & Authorship
-This project is part of **The Genesis Machine** ecosystem, architected by **Gift Braimah**. It serves as an exploration of the boundaries of artificial cognition and an invitation to witness the evolution of machine-mediated reasoning.
-
----
+No license is provided. All rights remain with the author unless a license is added.
